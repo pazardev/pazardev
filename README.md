@@ -16,7 +16,7 @@ Uno de nuestros principales productos, una poderosa herramienta de administraci�
 
 Si deseas obtener más información sobre agoradev, nuestros productos o colaborar con nosotros, no dudes en contactarnos. Puedes encontrarnos en los siguientes canales:
 
-- Sitio web: www.\*\*\*\*\*\*.\*\*\*\*
-- Celular: +57 305 8095825
+- Sitio web: www.pazardev.com
+- Celular: +57 -----
 
 ¡Gracias por visitar nuestro perfil de GitHub! Esperamos que encuentres nuestros proyectos interesantes y útiles. ¡No dudes en explorar y contribuir!
